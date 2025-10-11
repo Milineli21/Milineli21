@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hi! I’m Giovana (Gi) from Brazil 🇧🇷. I’m a Computer Science student, aspiring AI researcher, and learning full-stack development.</p>
+<p align="left">Hi! I’m Giovana (Gi). I’m a Computer Science student, aspiring AI researcher, and learning full-stack development.</p>
 
 ###
 
