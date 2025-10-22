@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hi! I’m Giovana (Gi), a Computer Science student driven by curiosity and a deep interest in Artificial Intelligence and Data Science.</p>
+<p align="left">Hi! I’m Giovana , a Computer Science student driven by curiosity and a deep interest in Artificial Intelligence and Data Science.</p>
 
 ###
 
